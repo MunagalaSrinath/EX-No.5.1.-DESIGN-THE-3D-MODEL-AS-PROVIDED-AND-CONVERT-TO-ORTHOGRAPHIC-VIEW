@@ -23,7 +23,7 @@ Select sketch option and choose create sketch
 2. Apply finish sketch 
 
 ### STEP-4:
- Use the extrude option to convert the 2D to 3D.
+ Use the extrude option to convert the 2D to 3D
 
 ### STEP-5:
 Switch to drawing mode from design mode 
@@ -36,6 +36,7 @@ Switch to drawing mode from design mode
 ![image](https://user-images.githubusercontent.com/113594316/199408705-ed302b2a-90c3-41c0-9cc4-791a93366e2a.png)
 
 ## OUTPUT
+![EX 5 1 ORIGinal_page-0001](https://user-images.githubusercontent.com/118678482/213676190-62c35a1e-f57e-4fe6-8baa-dcd7d62df299.jpg)
 
 
 ## RESULT:
